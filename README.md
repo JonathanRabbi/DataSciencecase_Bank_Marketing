@@ -1,3 +1,5 @@
+The below case was for a data science interview (junior position).
+
 Task:
 Use dummy data to maximize revenue from direct marketing campaigns.
 Data:
